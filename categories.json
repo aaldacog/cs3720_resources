@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": 5001,
+    "name": "Electronics"
+  },
+  {
+    "categoryId": 5002,
+    "name": "Home"
+  },
+  {
+    "categoryId": 5003,
+    "name": "Sports"
+  },
+  {
+    "categoryId": 5004,
+    "name": "Office"
+  },
+  {
+    "categoryId": 5005,
+    "name": "Accessories"
+  }
+]
