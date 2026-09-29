@@ -1,0 +1,86 @@
+[
+    {
+    "id": 101,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "image": "headphones"
+    },
+  {
+    "id": 102,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 129.99,
+    "image": "smartwatch"
+  },
+  {
+    "id": 103,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 59.99,
+    "image": "speaker"
+  },
+  {
+    "id": 104,
+    "name": "Classic Hoodie",
+    "category": "Clothing",
+    "price": 44.99,
+    "image": "hoodie"
+  },
+  {
+    "id": 105,
+    "name": "Running Shoes",
+    "category": "Clothing",
+    "price": 89.99,
+    "image": "shoes"
+  },
+  {
+    "id": 106,
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 119.99,
+    "image": "jacket"
+  },
+  {
+    "id": 107,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 29.99,
+    "image": "yogamat"
+  },
+  {
+    "id": 108,
+    "name": "Soccer Ball",
+    "category": "Sports",
+    "price": 34.99,
+    "image": "soccerball"
+  },
+  {
+    "id": 109,
+    "name": "Sports Backpack",
+    "category": "Sports",
+    "price": 49.99,
+    "image": "backpack"
+  },
+  {
+    "id": 110,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 39.99,
+    "image": "lamp"
+  },
+  {
+    "id": 111,
+    "name": "Coffee Maker",
+    "category": "Home",
+    "price": 69.99,
+    "image": "coffeemaker"
+  },
+  {
+    "id": 112,
+    "name": "Throw Pillow",
+    "category": "Home",
+    "price": 24.99,
+    "image": "pillow"
+  }
+]
