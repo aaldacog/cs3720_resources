@@ -5,7 +5,7 @@
     "category": "Electronics",
     "categoryId":5001,
     "price": 79.99,
-    "image": "headphones"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_101.png?raw=true"
   },
   {
     "productId": 102,
@@ -13,7 +13,7 @@
     "category": "Electronics",
     "categoryId":5001,
     "price": 129.99,
-    "image": "smartwatch"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_102.png?raw=true"
   },
   {
     "productId": 103,
@@ -21,28 +21,28 @@
     "category": "Electronics",
     "categoryId":5001,
     "price": 59.99,
-    "image": "speaker"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_103.png?raw=true"
   },
   {
     "productId": 104,
     "name": "Classic Hoodie",
     "category": "Clothing",
     "price": 44.99,
-    "image": "hoodie"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_104.png?raw=true"
   },
   {
     "productId": 105,
     "name": "Running Shoes",
     "category": "Clothing",
     "price": 89.99,
-    "image": "shoes"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_105.png?raw=true"
   },
   {
     "productId": 106,
     "name": "Winter Jacket",
     "category": "Clothing",
     "price": 119.99,
-    "image": "jacket"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_106.png?raw=true"
   },
   {
     "productId": 107,
@@ -50,7 +50,7 @@
     "category": "Sports",
     "categoryId":5003,
     "price": 29.99,
-    "image": "yogamat"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_107.png?raw=true"
   },
   {
     "productId": 108,
@@ -58,7 +58,7 @@
     "category": "Sports",
     "categoryId":5003,
     "price": 34.99,
-    "image": "soccerball"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_108.png?raw=true"
   },
   {
     "productId": 109,
@@ -66,7 +66,7 @@
     "category": "Sports",
     "categoryId":5003,
     "price": 49.99,
-    "image": "backpack"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_109.png?raw=true"
   },
   {
     "productId": 110,
@@ -74,7 +74,7 @@
     "category": "Home",
     "categoryId":5002,
     "price": 39.99,
-    "image": "lamp"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_110.png?raw=true"
   },
   {
     "productId": 111,
@@ -82,7 +82,7 @@
     "category": "Home",
     "categoryId":5002,
     "price": 69.99,
-    "image": "coffeemaker"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_111.png?raw=true"
   },
   {
     "productId": 112,
@@ -90,6 +90,6 @@
     "category": "Home",
     "categoryId":5002,
     "price": 24.99,
-    "image": "pillow"
+    "imageURL": "https://github.com/aaldacog/cs3720_resources/blob/main/productId_112.png?raw=true"
   }
 ]
