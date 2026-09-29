@@ -3,13 +3,15 @@
     "id": 101,
     "name": "Wireless Headphones",
     "category": "Electronics",
+    "categoryId":5001,
     "price": 79.99,
     "image": "headphones"
-    },
+  },
   {
     "id": 102,
     "name": "Smart Watch",
     "category": "Electronics",
+    "categoryId":5001,
     "price": 129.99,
     "image": "smartwatch"
   },
@@ -17,6 +19,7 @@
     "id": 103,
     "name": "Bluetooth Speaker",
     "category": "Electronics",
+    "categoryId":5001,
     "price": 59.99,
     "image": "speaker"
   },
@@ -45,6 +48,7 @@
     "id": 107,
     "name": "Yoga Mat",
     "category": "Sports",
+    "categoryId":5003,
     "price": 29.99,
     "image": "yogamat"
   },
@@ -52,6 +56,7 @@
     "id": 108,
     "name": "Soccer Ball",
     "category": "Sports",
+    "categoryId":5003,
     "price": 34.99,
     "image": "soccerball"
   },
@@ -59,6 +64,7 @@
     "id": 109,
     "name": "Sports Backpack",
     "category": "Sports",
+    "categoryId":5003,
     "price": 49.99,
     "image": "backpack"
   },
@@ -66,6 +72,7 @@
     "id": 110,
     "name": "Desk Lamp",
     "category": "Home",
+    "categoryId":5002,
     "price": 39.99,
     "image": "lamp"
   },
@@ -73,6 +80,7 @@
     "id": 111,
     "name": "Coffee Maker",
     "category": "Home",
+    "categoryId":5002,
     "price": 69.99,
     "image": "coffeemaker"
   },
@@ -80,6 +88,7 @@
     "id": 112,
     "name": "Throw Pillow",
     "category": "Home",
+    "categoryId":5002,
     "price": 24.99,
     "image": "pillow"
   }
