@@ -1,0 +1,37 @@
+[
+  {
+    "customerId": 6001,
+    "name": "Alex Johnson",
+    "address": "125 Main Street",
+    "city": "Platteville",
+    "state": "WI"
+  },
+  {
+    "customerId": 6002,
+    "name": "Jordan Miller",
+    "address": "842 Pine Street",
+    "city": "Dubuque",
+    "state": "IA"
+  },
+  {
+    "customerId": 6003,
+    "name": "Taylor Anderson",
+    "address": "317 Oak Avenue",
+    "city": "Madison",
+    "state": "WI"
+  },
+  {
+    "customerId": 6004,
+    "name": "Morgan Davis",
+    "address": "965 University Drive",
+    "city": "La Crosse",
+    "state": "WI"
+  },
+  {
+    "customerId": 6005,
+    "name": "Casey Wilson",
+    "address": "421 River Road",
+    "city": "Galena",
+    "state": "IL"
+  }
+]
